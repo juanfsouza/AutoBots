@@ -1,0 +1,4160 @@
+
+Criando Conta!
+
+Nome inserido: Nsrqntct
+Email inserido: t8pgdsj63l@gmail.com
+Senha inserida: 5hinajM446uw
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Clicado no elemento Brasileira.
+Traceback (most recent call last):
+  File "c:\Users\juan\Desktop\JFBot\app.pyw", line 209, in <module>
+    if not start_bot(driver):
+           ^^^^^^^^^^^^^^^^^
+  File "c:\Users\juan\Desktop\JFBot\app.pyw", line 190, in start_bot
+    send_messages_100_times(driver, message_interval=message_interval)
+  File "c:\Users\juan\Desktop\JFBot\app.pyw", line 85, in send_messages_100_times
+    time.sleep(5)
+KeyboardInterrupt
+
+Criando Conta!
+
+Nome inserido: Woeagwzt
+Email inserido: j2embdu6qk@gmail.com
+Senha inserida: f5fnAZQJoXM6
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+
+Criando Conta!
+
+Nome inserido: Hjnvunpv
+Email inserido: 88koo7m38c@gmail.com
+Senha inserida: cxxUrnzCm9NX
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Clicado no elemento Brasileira.
+
+Criando Conta!
+
+Nome inserido: Vdtjsrdo
+Email inserido: gd6wrxsw48@gmail.com
+Senha inserida: cvi6mn9lvDs9
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+
+Criando Conta!
+
+Nome inserido: Tamxbalx
+Email inserido: 61bup9tsm8@gmail.com
+Senha inserida: ezUQWgqsFqlQ
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Clicado no elemento Brasileira.
+
+Criando Conta!
+
+Nome inserido: Igbasbft
+Email inserido: 1dpw81419g@gmail.com
+Senha inserida: vF7wFPybfbyF
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Clicado no elemento Brasileira.
+Erro ao enviar mensagem: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00557143+25587]
+	(No symbol) [0x004EA2E4]
+	(No symbol) [0x003E2113]
+	(No symbol) [0x003BE23B]
+	(No symbol) [0x0045179F]
+	(No symbol) [0x00464CB9]
+	(No symbol) [0x0044A936]
+	(No symbol) [0x0041BA73]
+	(No symbol) [0x0041C4CD]
+	GetHandleVerifier [0x00834C63+3030803]
+	GetHandleVerifier [0x00886B99+3366473]
+	GetHandleVerifier [0x005E95F2+624802]
+	GetHandleVerifier [0x005F0E6C+655644]
+	(No symbol) [0x004F2C9D]
+	(No symbol) [0x004EFD68]
+	(No symbol) [0x004EFF05]
+	(No symbol) [0x004E2336]
+	BaseThreadInitThunk [0x768EFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x773F80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x773F809E+238]
+
+
+Criando Conta!
+
+Nome inserido: Stxllvcu
+Email inserido: bzzreq8stn@gmail.com
+Senha inserida: WI0H6BFgs7Ix
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x01117143+25587]
+	(No symbol) [0x010AA2E4]
+	(No symbol) [0x00FA2113]
+	(No symbol) [0x00F7E23B]
+	(No symbol) [0x0101179F]
+	(No symbol) [0x01024CB9]
+	(No symbol) [0x0100A936]
+	(No symbol) [0x00FDBA73]
+	(No symbol) [0x00FDC4CD]
+	GetHandleVerifier [0x013F4C63+3030803]
+	GetHandleVerifier [0x01446B99+3366473]
+	GetHandleVerifier [0x011A95F2+624802]
+	GetHandleVerifier [0x011B0E6C+655644]
+	(No symbol) [0x010B2C9D]
+	(No symbol) [0x010AFD68]
+	(No symbol) [0x010AFF05]
+	(No symbol) [0x010A2336]
+	BaseThreadInitThunk [0x768EFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x773F80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x773F809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Hubyfcqo
+Email inserido: h51upribl3@gmail.com
+Senha inserida: sZOvbLAesntt
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Clicado no elemento Brasileira.
+Erro: A mensagem '𝐂𝐨𝐦𝐞𝐜̧𝐞𝐢 𝐜𝐨𝐦 𝟐𝟎𝟎 𝐫𝐞𝐚𝐢𝐬 𝐞 𝐣𝐚́ 𝐞𝐬𝐭𝐨𝐮 𝐜𝐨𝐦 𝐪𝐮𝐚𝐬𝐞 𝟏.𝟔𝟎𝟎, 𝐠𝐫𝐚𝐜̧𝐚𝐬 𝐚𝐨 𝐓𝐑𝐔𝐊𝐈𝐒𝐑𝐎𝐋𝐄𝐓𝐀' não foi encontrada no chat. Parando o loop.
+
+Criando Conta!
+
+Nome inserido: Vztbkykh
+Email inserido: 258fldsua2@gmail.com
+Senha inserida: nAHOI2qqCpHW
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Clicado no elemento Brasileira.
+Erro ao enviar mensagem: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x005D5523+24195]
+	(No symbol) [0x0056AA04]
+	(No symbol) [0x00462093]
+	(No symbol) [0x0043E22B]
+	(No symbol) [0x004D173F]
+	(No symbol) [0x004E4BB9]
+	(No symbol) [0x004CA8D6]
+	(No symbol) [0x0049BA27]
+	(No symbol) [0x0049C43D]
+	GetHandleVerifier [0x0089CE13+2938739]
+	GetHandleVerifier [0x008EEC69+3274185]
+	GetHandleVerifier [0x006609C2+594722]
+	GetHandleVerifier [0x00667EDC+624700]
+	(No symbol) [0x005737CD]
+	(No symbol) [0x00570528]
+	(No symbol) [0x005706C5]
+	(No symbol) [0x00562CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+
+Criando Conta!
+
+Nome inserido: Klpdhyet
+Email inserido: 6bq3nsiyn7@gmail.com
+Senha inserida: rswKsrVBnhHS
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00A45523+24195]
+	(No symbol) [0x009DAA04]
+	(No symbol) [0x008D2093]
+	(No symbol) [0x008AE22B]
+	(No symbol) [0x0094173F]
+	(No symbol) [0x00954BB9]
+	(No symbol) [0x0093A8D6]
+	(No symbol) [0x0090BA27]
+	(No symbol) [0x0090C43D]
+	GetHandleVerifier [0x00D0CE13+2938739]
+	GetHandleVerifier [0x00D5EC69+3274185]
+	GetHandleVerifier [0x00AD09C2+594722]
+	GetHandleVerifier [0x00AD7EDC+624700]
+	(No symbol) [0x009E37CD]
+	(No symbol) [0x009E0528]
+	(No symbol) [0x009E06C5]
+	(No symbol) [0x009D2CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Tqpomqte
+Email inserido: js3u1ekpi2@gmail.com
+Senha inserida: UNJiKnO97Kgb
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00BC5523+24195]
+	(No symbol) [0x00B5AA04]
+	(No symbol) [0x00A52093]
+	(No symbol) [0x00A60726]
+	(No symbol) [0x00A5854A]
+	(No symbol) [0x00A56847]
+	(No symbol) [0x00A59508]
+	(No symbol) [0x00A59580]
+	(No symbol) [0x00A98972]
+	(No symbol) [0x00A8D402]
+	(No symbol) [0x00ABAB3C]
+	(No symbol) [0x00A8CFB4]
+	(No symbol) [0x00ABADD4]
+	(No symbol) [0x00AD5280]
+	(No symbol) [0x00ABA8D6]
+	(No symbol) [0x00A8BA27]
+	(No symbol) [0x00A8C43D]
+	GetHandleVerifier [0x00E8CE13+2938739]
+	GetHandleVerifier [0x00EDEC69+3274185]
+	GetHandleVerifier [0x00C509C2+594722]
+	GetHandleVerifier [0x00C57EDC+624700]
+	(No symbol) [0x00B637CD]
+	(No symbol) [0x00B60528]
+	(No symbol) [0x00B606C5]
+	(No symbol) [0x00B52CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Pejabptx
+Email inserido: d1lcdjtj4l@gmail.com
+Senha inserida: N7L83KcMx5lq
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x002C5523+24195]
+	(No symbol) [0x0025AA04]
+	(No symbol) [0x00152093]
+	(No symbol) [0x00160726]
+	(No symbol) [0x0015854A]
+	(No symbol) [0x00156847]
+	(No symbol) [0x00159508]
+	(No symbol) [0x00159580]
+	(No symbol) [0x00198972]
+	(No symbol) [0x0018D402]
+	(No symbol) [0x001BAB3C]
+	(No symbol) [0x0018CFB4]
+	(No symbol) [0x001BADD4]
+	(No symbol) [0x001D5280]
+	(No symbol) [0x001BA8D6]
+	(No symbol) [0x0018BA27]
+	(No symbol) [0x0018C43D]
+	GetHandleVerifier [0x0058CE13+2938739]
+	GetHandleVerifier [0x005DEC69+3274185]
+	GetHandleVerifier [0x003509C2+594722]
+	GetHandleVerifier [0x00357EDC+624700]
+	(No symbol) [0x002637CD]
+	(No symbol) [0x00260528]
+	(No symbol) [0x002606C5]
+	(No symbol) [0x00252CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+	(No symbol) [0x00000000]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Djrpnztz
+Email inserido: vvll3yuv1s@gmail.com
+Senha inserida: d9NmqJ1XRIZv
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00525523+24195]
+	(No symbol) [0x004BAA04]
+	(No symbol) [0x003B2093]
+	(No symbol) [0x003C0726]
+	(No symbol) [0x003B854A]
+	(No symbol) [0x003B6847]
+	(No symbol) [0x003B9508]
+	(No symbol) [0x003B9580]
+	(No symbol) [0x003F8972]
+	(No symbol) [0x003ED402]
+	(No symbol) [0x0041AB3C]
+	(No symbol) [0x003ECFB4]
+	(No symbol) [0x0041ADD4]
+	(No symbol) [0x00435280]
+	(No symbol) [0x0041A8D6]
+	(No symbol) [0x003EBA27]
+	(No symbol) [0x003EC43D]
+	GetHandleVerifier [0x007ECE13+2938739]
+	GetHandleVerifier [0x0083EC69+3274185]
+	GetHandleVerifier [0x005B09C2+594722]
+	GetHandleVerifier [0x005B7EDC+624700]
+	(No symbol) [0x004C37CD]
+	(No symbol) [0x004C0528]
+	(No symbol) [0x004C06C5]
+	(No symbol) [0x004B2CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Jcaqewtj
+Email inserido: nfrnwx9p3n@gmail.com
+Senha inserida: d5cVhZ88W5Tv
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00BC5523+24195]
+	(No symbol) [0x00B5AA04]
+	(No symbol) [0x00A52093]
+	(No symbol) [0x00A60726]
+	(No symbol) [0x00A5854A]
+	(No symbol) [0x00A56847]
+	(No symbol) [0x00A59508]
+	(No symbol) [0x00A59580]
+	(No symbol) [0x00A98972]
+	(No symbol) [0x00A8D402]
+	(No symbol) [0x00ABAB3C]
+	(No symbol) [0x00A8CFB4]
+	(No symbol) [0x00ABADD4]
+	(No symbol) [0x00AD5280]
+	(No symbol) [0x00ABA8D6]
+	(No symbol) [0x00A8BA27]
+	(No symbol) [0x00A8C43D]
+	GetHandleVerifier [0x00E8CE13+2938739]
+	GetHandleVerifier [0x00EDEC69+3274185]
+	GetHandleVerifier [0x00C509C2+594722]
+	GetHandleVerifier [0x00C57EDC+624700]
+	(No symbol) [0x00B637CD]
+	(No symbol) [0x00B60528]
+	(No symbol) [0x00B606C5]
+	(No symbol) [0x00B52CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Vbqaxcpf
+Email inserido: ca0ty14ram@gmail.com
+Senha inserida: GhnXoosDydBf
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004A5523+24195]
+	(No symbol) [0x0043AA04]
+	(No symbol) [0x00332093]
+	(No symbol) [0x00340726]
+	(No symbol) [0x0033854A]
+	(No symbol) [0x00336847]
+	(No symbol) [0x00339508]
+	(No symbol) [0x0033948F]
+	(No symbol) [0x00339580]
+	(No symbol) [0x00378972]
+	(No symbol) [0x0036D402]
+	(No symbol) [0x0039AB3C]
+	(No symbol) [0x0036CFB4]
+	(No symbol) [0x0039ADD4]
+	(No symbol) [0x003B5280]
+	(No symbol) [0x0039A8D6]
+	(No symbol) [0x0036BA27]
+	(No symbol) [0x0036C43D]
+	GetHandleVerifier [0x0076CE13+2938739]
+	GetHandleVerifier [0x007BEC69+3274185]
+	GetHandleVerifier [0x005309C2+594722]
+	GetHandleVerifier [0x00537EDC+624700]
+	(No symbol) [0x004437CD]
+	(No symbol) [0x00440528]
+	(No symbol) [0x004406C5]
+	(No symbol) [0x00432CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Ydmzitkl
+Email inserido: 987n8sbbhv@gmail.com
+Senha inserida: U0qt3VqBZvax
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00615523+24195]
+	(No symbol) [0x005AAA04]
+	(No symbol) [0x004A2093]
+	(No symbol) [0x004B0726]
+	(No symbol) [0x004A854A]
+	(No symbol) [0x004A6847]
+	(No symbol) [0x004A9508]
+	(No symbol) [0x004A9580]
+	(No symbol) [0x004E8972]
+	(No symbol) [0x004DD402]
+	(No symbol) [0x0050AB3C]
+	(No symbol) [0x004DCFB4]
+	(No symbol) [0x0050ADD4]
+	(No symbol) [0x00525280]
+	(No symbol) [0x0050A8D6]
+	(No symbol) [0x004DBA27]
+	(No symbol) [0x004DC43D]
+	GetHandleVerifier [0x008DCE13+2938739]
+	GetHandleVerifier [0x0092EC69+3274185]
+	GetHandleVerifier [0x006A09C2+594722]
+	GetHandleVerifier [0x006A7EDC+624700]
+	(No symbol) [0x005B37CD]
+	(No symbol) [0x005B0528]
+	(No symbol) [0x005B06C5]
+	(No symbol) [0x005A2CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Gfdcfxxk
+Email inserido: q73fz396tk@gmail.com
+Senha inserida: uGdfnRrdNC0n
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00E95523+24195]
+	(No symbol) [0x00E2AA04]
+	(No symbol) [0x00D22093]
+	(No symbol) [0x00D30726]
+	(No symbol) [0x00D2854A]
+	(No symbol) [0x00D26847]
+	(No symbol) [0x00D29508]
+	(No symbol) [0x00D29580]
+	(No symbol) [0x00D68972]
+	(No symbol) [0x00D5D402]
+	(No symbol) [0x00D8AB3C]
+	(No symbol) [0x00D5CFB4]
+	(No symbol) [0x00D8ADD4]
+	(No symbol) [0x00DA5280]
+	(No symbol) [0x00D8A8D6]
+	(No symbol) [0x00D5BA27]
+	(No symbol) [0x00D5C43D]
+	GetHandleVerifier [0x0115CE13+2938739]
+	GetHandleVerifier [0x011AEC69+3274185]
+	GetHandleVerifier [0x00F209C2+594722]
+	GetHandleVerifier [0x00F27EDC+624700]
+	(No symbol) [0x00E337CD]
+	(No symbol) [0x00E30528]
+	(No symbol) [0x00E306C5]
+	(No symbol) [0x00E22CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Zghzfkej
+Email inserido: s1flfaertz@gmail.com
+Senha inserida: xQmEYs2e7Col
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: element click intercepted: Element <a data-v-03fe63f8="" href="/games/play/15208/23664" class="" title="Brazilian Roulette" cover="drakon/Brazilian Roulette.jpg" gamecode="23664" type="drakon">...</a> is not clickable at point (409, 890). Other element would receive the click: <div class="flex justify-between items-center fixed left-0 md:left-10 bottom-10 z-[999] p-4 dark:bg-gray-900 shadow-lg">...</div>
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00905523+24195]
+	(No symbol) [0x0089AA04]
+	(No symbol) [0x00792093]
+	(No symbol) [0x007DCE37]
+	(No symbol) [0x007DB239]
+	(No symbol) [0x007D911B]
+	(No symbol) [0x007D8724]
+	(No symbol) [0x007CD4FD]
+	(No symbol) [0x007FAB3C]
+	(No symbol) [0x007CCFB4]
+	(No symbol) [0x007FADD4]
+	(No symbol) [0x00815280]
+	(No symbol) [0x007FA8D6]
+	(No symbol) [0x007CBA27]
+	(No symbol) [0x007CC43D]
+	GetHandleVerifier [0x00BCCE13+2938739]
+	GetHandleVerifier [0x00C1EC69+3274185]
+	GetHandleVerifier [0x009909C2+594722]
+	GetHandleVerifier [0x00997EDC+624700]
+	(No symbol) [0x008A37CD]
+	(No symbol) [0x008A0528]
+	(No symbol) [0x008A06C5]
+	(No symbol) [0x00892CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Ezjajfzy
+Email inserido: km1okuo7bi@gmail.com
+Senha inserida: PXBquJC3psPg
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: element click intercepted: Element <a data-v-03fe63f8="" href="/games/play/15208/23664" class="" title="Brazilian Roulette" cover="drakon/Brazilian Roulette.jpg" gamecode="23664" type="drakon">...</a> is not clickable at point (409, 890). Other element would receive the click: <div class="flex justify-between items-center fixed left-0 md:left-10 bottom-10 z-[999] p-4 dark:bg-gray-900 shadow-lg">...</div>
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00515523+24195]
+	(No symbol) [0x004AAA04]
+	(No symbol) [0x003A2093]
+	(No symbol) [0x003ECE37]
+	(No symbol) [0x003EB239]
+	(No symbol) [0x003E911B]
+	(No symbol) [0x003E8724]
+	(No symbol) [0x003DD4FD]
+	(No symbol) [0x0040AB3C]
+	(No symbol) [0x003DCFB4]
+	(No symbol) [0x0040ADD4]
+	(No symbol) [0x00425280]
+	(No symbol) [0x0040A8D6]
+	(No symbol) [0x003DBA27]
+	(No symbol) [0x003DC43D]
+	GetHandleVerifier [0x007DCE13+2938739]
+	GetHandleVerifier [0x0082EC69+3274185]
+	GetHandleVerifier [0x005A09C2+594722]
+	GetHandleVerifier [0x005A7EDC+624700]
+	(No symbol) [0x004B37CD]
+	(No symbol) [0x004B0528]
+	(No symbol) [0x004B06C5]
+	(No symbol) [0x004A2CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Erro: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00ED5523+24195]
+	(No symbol) [0x00E6AA04]
+	(No symbol) [0x00D62093]
+	(No symbol) [0x00D3E22B]
+	(No symbol) [0x00DD173F]
+	(No symbol) [0x00DE4BB9]
+	(No symbol) [0x00DCA8D6]
+	(No symbol) [0x00D9BA27]
+	(No symbol) [0x00D9C43D]
+	GetHandleVerifier [0x0119CE13+2938739]
+	GetHandleVerifier [0x011EEC69+3274185]
+	GetHandleVerifier [0x00F609C2+594722]
+	GetHandleVerifier [0x00F67EDC+624700]
+	(No symbol) [0x00E737CD]
+	(No symbol) [0x00E70528]
+	(No symbol) [0x00E706C5]
+	(No symbol) [0x00E62CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+
+Criando Conta!
+
+Nome inserido: Yefdmrpk
+Email inserido: 311af3yhqj@gmail.com
+Senha inserida: 6JBFnn4b5D00
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00945523+24195]
+	(No symbol) [0x008DAA04]
+	(No symbol) [0x007D2093]
+	(No symbol) [0x007E0726]
+	(No symbol) [0x007D854A]
+	(No symbol) [0x007D6847]
+	(No symbol) [0x007D9508]
+	(No symbol) [0x007D9580]
+	(No symbol) [0x00818972]
+	(No symbol) [0x0080D402]
+	(No symbol) [0x0083AB3C]
+	(No symbol) [0x0080CFB4]
+	(No symbol) [0x0083ADD4]
+	(No symbol) [0x00855280]
+	(No symbol) [0x0083A8D6]
+	(No symbol) [0x0080BA27]
+	(No symbol) [0x0080C43D]
+	GetHandleVerifier [0x00C0CE13+2938739]
+	GetHandleVerifier [0x00C5EC69+3274185]
+	GetHandleVerifier [0x009D09C2+594722]
+	GetHandleVerifier [0x009D7EDC+624700]
+	(No symbol) [0x008E37CD]
+	(No symbol) [0x008E0528]
+	(No symbol) [0x008E06C5]
+	(No symbol) [0x008D2CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Nujgivit
+Email inserido: 967f58zr0f@gmail.com
+Senha inserida: h1XoQ07Ikunx
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x010A5523+24195]
+	(No symbol) [0x0103AA04]
+	(No symbol) [0x00F32093]
+	(No symbol) [0x00F40726]
+	(No symbol) [0x00F3854A]
+	(No symbol) [0x00F36847]
+	(No symbol) [0x00F39508]
+	(No symbol) [0x00F39580]
+	(No symbol) [0x00F78972]
+	(No symbol) [0x00F6D402]
+	(No symbol) [0x00F9AB3C]
+	(No symbol) [0x00F6CFB4]
+	(No symbol) [0x00F9ADD4]
+	(No symbol) [0x00FB5280]
+	(No symbol) [0x00F9A8D6]
+	(No symbol) [0x00F6BA27]
+	(No symbol) [0x00F6C43D]
+	GetHandleVerifier [0x0136CE13+2938739]
+	GetHandleVerifier [0x013BEC69+3274185]
+	GetHandleVerifier [0x011309C2+594722]
+	GetHandleVerifier [0x01137EDC+624700]
+	(No symbol) [0x010437CD]
+	(No symbol) [0x01040528]
+	(No symbol) [0x010406C5]
+	(No symbol) [0x01032CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Zhtoabqr
+Email inserido: ti5p1qbddo@gmail.com
+Senha inserida: 0pRN02wsjAjG
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Timeout: O elemento não foi encontrado.
+
+Criando Conta!
+
+Nome inserido: Ggqrhyua
+Email inserido: ilvcwsmh10@gmail.com
+Senha inserida: 0JlHsf0urFbZ
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro inesperado: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00495523+24195]
+	(No symbol) [0x0042AA04]
+	(No symbol) [0x00322093]
+	(No symbol) [0x002FE22B]
+	(No symbol) [0x0039173F]
+	(No symbol) [0x003A4BB9]
+	(No symbol) [0x0038A8D6]
+	(No symbol) [0x0035BA27]
+	(No symbol) [0x0035C43D]
+	GetHandleVerifier [0x0075CE13+2938739]
+	GetHandleVerifier [0x007AEC69+3274185]
+	GetHandleVerifier [0x005209C2+594722]
+	GetHandleVerifier [0x00527EDC+624700]
+	(No symbol) [0x004337CD]
+	(No symbol) [0x00430528]
+	(No symbol) [0x004306C5]
+	(No symbol) [0x00422CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+
+Criando Conta!
+
+Nome inserido: Hvlbagft
+Email inserido: y5pu2u3u7p@gmail.com
+Senha inserida: S1AZnZ82o2Yx
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Timeout: O elemento não foi encontrado.
+Erro ao encontrar o campo de entrada: Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='Digite a mensagem aquí']"}
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x003B5523+24195]
+	(No symbol) [0x0034AA04]
+	(No symbol) [0x00242093]
+	(No symbol) [0x00286ED2]
+	(No symbol) [0x0028711B]
+	(No symbol) [0x002C76F2]
+	(No symbol) [0x002AAB84]
+	(No symbol) [0x002C5280]
+	(No symbol) [0x002AA8D6]
+	(No symbol) [0x0027BA27]
+	(No symbol) [0x0027C43D]
+	GetHandleVerifier [0x0067CE13+2938739]
+	GetHandleVerifier [0x006CEC69+3274185]
+	GetHandleVerifier [0x004409C2+594722]
+	GetHandleVerifier [0x00447EDC+624700]
+	(No symbol) [0x003537CD]
+	(No symbol) [0x00350528]
+	(No symbol) [0x003506C5]
+	(No symbol) [0x00342CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+
+Criando Conta!
+
+Nome inserido: Eruplgfc
+Email inserido: 30zqj9ic61@gmail.com
+Senha inserida: b9YOknbyKupG
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Timeout: O elemento não foi encontrado.
+Erro ao enviar mensagem: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00B85523+24195]
+	(No symbol) [0x00B1AA04]
+	(No symbol) [0x00A12093]
+	(No symbol) [0x009EE22B]
+	(No symbol) [0x00A8173F]
+	(No symbol) [0x00A94BB9]
+	(No symbol) [0x00A7A8D6]
+	(No symbol) [0x00A4BA27]
+	(No symbol) [0x00A4C43D]
+	GetHandleVerifier [0x00E4CE13+2938739]
+	GetHandleVerifier [0x00E9EC69+3274185]
+	GetHandleVerifier [0x00C109C2+594722]
+	GetHandleVerifier [0x00C17EDC+624700]
+	(No symbol) [0x00B237CD]
+	(No symbol) [0x00B20528]
+	(No symbol) [0x00B206C5]
+	(No symbol) [0x00B12CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+
+Criando Conta!
+
+Nome inserido: Iyyvfsst
+Email inserido: xv3iveya2d@gmail.com
+Senha inserida: F1ZKxA3aMZMU
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Timeout: O elemento não foi encontrado.
+Erro ao enviar mensagem: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+
+Criando Conta!
+
+Nome inserido: Ljhwihse
+Email inserido: b4t438rwyl@gmail.com
+Senha inserida: 0rObzlp7VIA9
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro inesperado: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00EA5523+24195]
+	(No symbol) [0x00E3AA04]
+	(No symbol) [0x00D32093]
+	(No symbol) [0x00D0E22B]
+	(No symbol) [0x00DA173F]
+	(No symbol) [0x00DB4BB9]
+	(No symbol) [0x00D9A8D6]
+	(No symbol) [0x00D6BA27]
+	(No symbol) [0x00D6C43D]
+	GetHandleVerifier [0x0116CE13+2938739]
+	GetHandleVerifier [0x011BEC69+3274185]
+	GetHandleVerifier [0x00F309C2+594722]
+	GetHandleVerifier [0x00F37EDC+624700]
+	(No symbol) [0x00E437CD]
+	(No symbol) [0x00E40528]
+	(No symbol) [0x00E406C5]
+	(No symbol) [0x00E32CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+
+Criando Conta!
+
+Nome inserido: Qxuocthj
+Email inserido: lwb08hniyd@gmail.com
+Senha inserida: i289xl8rA26m
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Timeout: O elemento não foi encontrado.
+Erro ao enviar mensagem: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00AE5523+24195]
+	(No symbol) [0x00A7AA04]
+	(No symbol) [0x00972093]
+	(No symbol) [0x0094E22B]
+	(No symbol) [0x009E173F]
+	(No symbol) [0x009F4BB9]
+	(No symbol) [0x009DA8D6]
+	(No symbol) [0x009ABA27]
+	(No symbol) [0x009AC43D]
+	GetHandleVerifier [0x00DACE13+2938739]
+	GetHandleVerifier [0x00DFEC69+3274185]
+	GetHandleVerifier [0x00B709C2+594722]
+	GetHandleVerifier [0x00B77EDC+624700]
+	(No symbol) [0x00A837CD]
+	(No symbol) [0x00A80528]
+	(No symbol) [0x00A806C5]
+	(No symbol) [0x00A72CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+
+Criando Conta!
+
+Nome inserido: Ccjijtfi
+Email inserido: it3vvvmh3j@gmail.com
+Senha inserida: AYsx4O80rdjq
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Timeout: O elemento não foi encontrado.
+Erro ao encontrar o campo de entrada: Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='Digite a mensagem aquí']"}
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00825523+24195]
+	(No symbol) [0x007BAA04]
+	(No symbol) [0x006B2093]
+	(No symbol) [0x006F6ED2]
+	(No symbol) [0x006F711B]
+	(No symbol) [0x007376F2]
+	(No symbol) [0x0071AB84]
+	(No symbol) [0x00735280]
+	(No symbol) [0x0071A8D6]
+	(No symbol) [0x006EBA27]
+	(No symbol) [0x006EC43D]
+	GetHandleVerifier [0x00AECE13+2938739]
+	GetHandleVerifier [0x00B3EC69+3274185]
+	GetHandleVerifier [0x008B09C2+594722]
+	GetHandleVerifier [0x008B7EDC+624700]
+	(No symbol) [0x007C37CD]
+	(No symbol) [0x007C0528]
+	(No symbol) [0x007C06C5]
+	(No symbol) [0x007B2CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+
+Criando Conta!
+
+Nome inserido: Dvnpydwu
+Email inserido: j7748gvjtv@gmail.com
+Senha inserida: GsGXucSrd5sA
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Timeout: O elemento não foi encontrado.
+Erro ao encontrar o campo de entrada: Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='Digite a mensagem aquí']"}
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00855523+24195]
+	(No symbol) [0x007EAA04]
+	(No symbol) [0x006E2093]
+	(No symbol) [0x00726ED2]
+	(No symbol) [0x0072711B]
+	(No symbol) [0x007676F2]
+	(No symbol) [0x0074AB84]
+	(No symbol) [0x00765280]
+	(No symbol) [0x0074A8D6]
+	(No symbol) [0x0071BA27]
+	(No symbol) [0x0071C43D]
+	GetHandleVerifier [0x00B1CE13+2938739]
+	GetHandleVerifier [0x00B6EC69+3274185]
+	GetHandleVerifier [0x008E09C2+594722]
+	GetHandleVerifier [0x008E7EDC+624700]
+	(No symbol) [0x007F37CD]
+	(No symbol) [0x007F0528]
+	(No symbol) [0x007F06C5]
+	(No symbol) [0x007E2CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+
+Criando Conta!
+
+Erro: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x0108E22B]
+	(No symbol) [0x0112173F]
+	(No symbol) [0x01134BB9]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+
+Criando Conta!
+
+Nome inserido: Sdolnwxj
+Email inserido: 9k7rapw5go@gmail.com
+Senha inserida: 2KN1wmNoIvvT
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00E85523+24195]
+	(No symbol) [0x00E1AA04]
+	(No symbol) [0x00D12093]
+	(No symbol) [0x00D56ED2]
+	(No symbol) [0x00D5711B]
+	(No symbol) [0x00D976F2]
+	(No symbol) [0x00D7AB84]
+	(No symbol) [0x00D95280]
+	(No symbol) [0x00D7A8D6]
+	(No symbol) [0x00D4BA27]
+	(No symbol) [0x00D4C43D]
+	GetHandleVerifier [0x0114CE13+2938739]
+	GetHandleVerifier [0x0119EC69+3274185]
+	GetHandleVerifier [0x00F109C2+594722]
+	GetHandleVerifier [0x00F17EDC+624700]
+	(No symbol) [0x00E237CD]
+	(No symbol) [0x00E20528]
+	(No symbol) [0x00E206C5]
+	(No symbol) [0x00E12CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Brpebaps
+Email inserido: a7klimb65e@gmail.com
+Senha inserida: TvxUo7yRBEgl
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01075523+24195]
+	(No symbol) [0x0100AA04]
+	(No symbol) [0x00F02093]
+	(No symbol) [0x00F46ED2]
+	(No symbol) [0x00F4711B]
+	(No symbol) [0x00F876F2]
+	(No symbol) [0x00F6AB84]
+	(No symbol) [0x00F85280]
+	(No symbol) [0x00F6A8D6]
+	(No symbol) [0x00F3BA27]
+	(No symbol) [0x00F3C43D]
+	GetHandleVerifier [0x0133CE13+2938739]
+	GetHandleVerifier [0x0138EC69+3274185]
+	GetHandleVerifier [0x011009C2+594722]
+	GetHandleVerifier [0x01107EDC+624700]
+	(No symbol) [0x010137CD]
+	(No symbol) [0x01010528]
+	(No symbol) [0x010106C5]
+	(No symbol) [0x01002CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Wficmzgt
+Email inserido: vndyhzi0ld@gmail.com
+Senha inserida: CgbatBoOs01j
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00C55523+24195]
+	(No symbol) [0x00BEAA04]
+	(No symbol) [0x00AE2093]
+	(No symbol) [0x00ABE22B]
+	(No symbol) [0x00B5173F]
+	(No symbol) [0x00B64BB9]
+	(No symbol) [0x00B4A8D6]
+	(No symbol) [0x00B1BA27]
+	(No symbol) [0x00B1C43D]
+	GetHandleVerifier [0x00F1CE13+2938739]
+	GetHandleVerifier [0x00F6EC69+3274185]
+	GetHandleVerifier [0x00CE09C2+594722]
+	GetHandleVerifier [0x00CE7EDC+624700]
+	(No symbol) [0x00BF37CD]
+	(No symbol) [0x00BF0528]
+	(No symbol) [0x00BF06C5]
+	(No symbol) [0x00BE2CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Xgjmsrwo
+Email inserido: 9x258kkr5h@gmail.com
+Senha inserida: SQxD2OmPb8NK
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: list index out of range
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Igwympwi
+Email inserido: fxrwf14d69@gmail.com
+Senha inserida: NspKYBL9wi0U
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+
+Criando Conta!
+
+Nome inserido: Bbdoyjli
+Email inserido: ar6mj1ba5r@gmail.com
+Senha inserida: YFypnapaRGcW
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00ED5523+24195]
+	(No symbol) [0x00E6AA04]
+	(No symbol) [0x00D62093]
+	(No symbol) [0x00DA6ED2]
+	(No symbol) [0x00DA711B]
+	(No symbol) [0x00DE76F2]
+	(No symbol) [0x00DCAB84]
+	(No symbol) [0x00DE5280]
+	(No symbol) [0x00DCA8D6]
+	(No symbol) [0x00D9BA27]
+	(No symbol) [0x00D9C43D]
+	GetHandleVerifier [0x0119CE13+2938739]
+	GetHandleVerifier [0x011EEC69+3274185]
+	GetHandleVerifier [0x00F609C2+594722]
+	GetHandleVerifier [0x00F67EDC+624700]
+	(No symbol) [0x00E737CD]
+	(No symbol) [0x00E70528]
+	(No symbol) [0x00E706C5]
+	(No symbol) [0x00E62CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Erro: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x010D5523+24195]
+	(No symbol) [0x0106AA04]
+	(No symbol) [0x00F62093]
+	(No symbol) [0x00F3E22B]
+	(No symbol) [0x00FD173F]
+	(No symbol) [0x00FE4BB9]
+	(No symbol) [0x00FCA8D6]
+	(No symbol) [0x00F9BA27]
+	(No symbol) [0x00F9C43D]
+	GetHandleVerifier [0x0139CE13+2938739]
+	GetHandleVerifier [0x013EEC69+3274185]
+	GetHandleVerifier [0x011609C2+594722]
+	GetHandleVerifier [0x01167EDC+624700]
+	(No symbol) [0x010737CD]
+	(No symbol) [0x01070528]
+	(No symbol) [0x010706C5]
+	(No symbol) [0x01062CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Ekaxwmlt
+Email inserido: p2xs04ribu@gmail.com
+Senha inserida: HNkO5AnwUdcP
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x004F5523+24195]
+	(No symbol) [0x0048AA04]
+	(No symbol) [0x00382093]
+	(No symbol) [0x003C6ED2]
+	(No symbol) [0x003C711B]
+	(No symbol) [0x004076F2]
+	(No symbol) [0x003EAB84]
+	(No symbol) [0x00405280]
+	(No symbol) [0x003EA8D6]
+	(No symbol) [0x003BBA27]
+	(No symbol) [0x003BC43D]
+	GetHandleVerifier [0x007BCE13+2938739]
+	GetHandleVerifier [0x0080EC69+3274185]
+	GetHandleVerifier [0x005809C2+594722]
+	GetHandleVerifier [0x00587EDC+624700]
+	(No symbol) [0x004937CD]
+	(No symbol) [0x00490528]
+	(No symbol) [0x004906C5]
+	(No symbol) [0x00482CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Pzzozwmd
+Email inserido: zj0koxxc5r@gmail.com
+Senha inserida: J37eBvLh9xOI
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01045523+24195]
+	(No symbol) [0x00FDAA04]
+	(No symbol) [0x00ED2093]
+	(No symbol) [0x00F16ED2]
+	(No symbol) [0x00F1711B]
+	(No symbol) [0x00F576F2]
+	(No symbol) [0x00F3AB84]
+	(No symbol) [0x00F55280]
+	(No symbol) [0x00F3A8D6]
+	(No symbol) [0x00F0BA27]
+	(No symbol) [0x00F0C43D]
+	GetHandleVerifier [0x0130CE13+2938739]
+	GetHandleVerifier [0x0135EC69+3274185]
+	GetHandleVerifier [0x010D09C2+594722]
+	GetHandleVerifier [0x010D7EDC+624700]
+	(No symbol) [0x00FE37CD]
+	(No symbol) [0x00FE0528]
+	(No symbol) [0x00FE06C5]
+	(No symbol) [0x00FD2CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Gujwbhii
+Email inserido: sjljwl78id@gmail.com
+Senha inserida: hN4OT45JQTOn
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00DD5523+24195]
+	(No symbol) [0x00D6AA04]
+	(No symbol) [0x00C62093]
+	(No symbol) [0x00CA6ED2]
+	(No symbol) [0x00CA711B]
+	(No symbol) [0x00CE76F2]
+	(No symbol) [0x00CCAB84]
+	(No symbol) [0x00CE5280]
+	(No symbol) [0x00CCA8D6]
+	(No symbol) [0x00C9BA27]
+	(No symbol) [0x00C9C43D]
+	GetHandleVerifier [0x0109CE13+2938739]
+	GetHandleVerifier [0x010EEC69+3274185]
+	GetHandleVerifier [0x00E609C2+594722]
+	GetHandleVerifier [0x00E67EDC+624700]
+	(No symbol) [0x00D737CD]
+	(No symbol) [0x00D70528]
+	(No symbol) [0x00D706C5]
+	(No symbol) [0x00D62CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Aqpmzuoj
+Email inserido: 0yxwtbh1zg@gmail.com
+Senha inserida: rA4RNc3syMtZ
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+
+Criando Conta!
+
+Nome inserido: Lqezqcbm
+Email inserido: 2gueti5bxm@gmail.com
+Senha inserida: JUJ2D49Oi88l
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Timeout: O elemento não foi encontrado.
+Erro ao encontrar o campo de entrada: Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='Digite a mensagem aquí']"}
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01235523+24195]
+	(No symbol) [0x011CAA04]
+	(No symbol) [0x010C2093]
+	(No symbol) [0x01106ED2]
+	(No symbol) [0x0110711B]
+	(No symbol) [0x011476F2]
+	(No symbol) [0x0112AB84]
+	(No symbol) [0x01145280]
+	(No symbol) [0x0112A8D6]
+	(No symbol) [0x010FBA27]
+	(No symbol) [0x010FC43D]
+	GetHandleVerifier [0x014FCE13+2938739]
+	GetHandleVerifier [0x0154EC69+3274185]
+	GetHandleVerifier [0x012C09C2+594722]
+	GetHandleVerifier [0x012C7EDC+624700]
+	(No symbol) [0x011D37CD]
+	(No symbol) [0x011D0528]
+	(No symbol) [0x011D06C5]
+	(No symbol) [0x011C2CA6]
+	BaseThreadInitThunk [0x7669FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B680CE+286]
+	RtlGetAppContainerNamedObjectPath [0x77B6809E+238]
+
+
+Criando Conta!
+
+Nome inserido: Dawnlpeb
+Email inserido: kpnvgbq5e4@gmail.com
+
+Criando Conta!
+
+Nome inserido: Ubxujnuf
+Email inserido: gy28djit4f@gmail.com
+Senha inserida: ycS8C8ZWSzal
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+
+Criando Conta!
+
+Nome inserido: Izruxjpc
+Email inserido: x0hwdrgz1m@gmail.com
+Senha inserida: 1wfp1L9TLTYv
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro ao enviar mensagem: Message: element not interactable
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00505523+24195]
+	(No symbol) [0x0049AA04]
+	(No symbol) [0x00391F09]
+	(No symbol) [0x003D7EDF]
+	(No symbol) [0x003CD4FD]
+	(No symbol) [0x003FAB3C]
+	(No symbol) [0x003CCFB4]
+	(No symbol) [0x003FADD4]
+	(No symbol) [0x00415280]
+	(No symbol) [0x003FA8D6]
+	(No symbol) [0x003CBA27]
+	(No symbol) [0x003CC43D]
+	GetHandleVerifier [0x007CCE13+2938739]
+	GetHandleVerifier [0x0081EC69+3274185]
+	GetHandleVerifier [0x005909C2+594722]
+	GetHandleVerifier [0x00597EDC+624700]
+	(No symbol) [0x004A37CD]
+	(No symbol) [0x004A0528]
+	(No symbol) [0x004A06C5]
+	(No symbol) [0x00492CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+
+Criando Conta!
+
+Erro: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00385523+24195]
+	(No symbol) [0x0031AA04]
+	(No symbol) [0x00212093]
+	(No symbol) [0x001EE22B]
+	(No symbol) [0x0028173F]
+	(No symbol) [0x00294BB9]
+	(No symbol) [0x0027A8D6]
+	(No symbol) [0x0024BA27]
+	(No symbol) [0x0024C43D]
+	GetHandleVerifier [0x0064CE13+2938739]
+	GetHandleVerifier [0x0069EC69+3274185]
+	GetHandleVerifier [0x004109C2+594722]
+	GetHandleVerifier [0x00417EDC+624700]
+	(No symbol) [0x003237CD]
+	(No symbol) [0x00320528]
+	(No symbol) [0x003206C5]
+	(No symbol) [0x00312CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+
+Criando Conta!
+
+Nome inserido: Kgzmpqmx
+Email inserido: r7v4swha83@gmail.com
+Senha inserida: rDTvKsBmu8Q9
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro ao enviar mensagem: Message: element not interactable
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00DB5523+24195]
+	(No symbol) [0x00D4AA04]
+	(No symbol) [0x00C41F09]
+	(No symbol) [0x00C87EDF]
+	(No symbol) [0x00C7D4FD]
+	(No symbol) [0x00CAAB3C]
+	(No symbol) [0x00C7CFB4]
+	(No symbol) [0x00CAADD4]
+	(No symbol) [0x00CC5280]
+	(No symbol) [0x00CAA8D6]
+	(No symbol) [0x00C7BA27]
+	(No symbol) [0x00C7C43D]
+	GetHandleVerifier [0x0107CE13+2938739]
+	GetHandleVerifier [0x010CEC69+3274185]
+	GetHandleVerifier [0x00E409C2+594722]
+	GetHandleVerifier [0x00E47EDC+624700]
+	(No symbol) [0x00D537CD]
+	(No symbol) [0x00D50528]
+	(No symbol) [0x00D506C5]
+	(No symbol) [0x00D42CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+
+Criando Conta!
+
+Nome inserido: Towtqpzk
+Email inserido: 6ltvctv47c@gmail.com
+Senha inserida: uDiHrZsrGpAD
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Timeout ao encontrar o campo de entrada: Message: 
+
+
+Criando Conta!
+
+Nome inserido: Zuznaykn
+Email inserido: 9igncfgmjt@gmail.com
+Senha inserida: ms00QTIb34IT
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro ao enviar mensagem: Message: element click intercepted: Element <input _ngcontent-ng-c764965989="" autocomplete="off" type="text" maxlength="200" id="chatMsgId" class="Rectangle ng-untouched ng-pristine ng-valid" placeholder="Digite sua mensagem aqui..."> is not clickable at point (1660, 82). Other element would receive the click: <div _ngcontent-ng-c4122489452="" class="toolTip mutetooltiphide">...</div>
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x011D5523+24195]
+	(No symbol) [0x0116AA04]
+	(No symbol) [0x01062093]
+	(No symbol) [0x010ACE37]
+	(No symbol) [0x010AB239]
+	(No symbol) [0x010A911B]
+	(No symbol) [0x010A8724]
+	(No symbol) [0x0109D4FD]
+	(No symbol) [0x010CAB3C]
+	(No symbol) [0x0109CFB4]
+	(No symbol) [0x010CADD4]
+	(No symbol) [0x010E5280]
+	(No symbol) [0x010CA8D6]
+	(No symbol) [0x0109BA27]
+	(No symbol) [0x0109C43D]
+	GetHandleVerifier [0x0149CE13+2938739]
+	GetHandleVerifier [0x014EEC69+3274185]
+	GetHandleVerifier [0x012609C2+594722]
+	GetHandleVerifier [0x01267EDC+624700]
+	(No symbol) [0x011737CD]
+	(No symbol) [0x01170528]
+	(No symbol) [0x011706C5]
+	(No symbol) [0x01162CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+
+Criando Conta!
+
+Nome inserido: Nccxbjce
+Email inserido: b03vyp601p@gmail.com
+Senha inserida: CshmqzwyBLGc
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro ao enviar mensagem: 'NoneType' object has no attribute 'click'
+
+Criando Conta!
+
+Nome inserido: Shkftlrv
+Email inserido: wpb9vyoy1i@gmail.com
+Senha inserida: YKxXnEsYSBI2
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro ao enviar mensagem: 'NoneType' object has no attribute 'click'
+
+Criando Conta!
+
+Erro: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00905523+24195]
+	(No symbol) [0x0089AA04]
+	(No symbol) [0x00792093]
+	(No symbol) [0x0076E22B]
+	(No symbol) [0x0080173F]
+	(No symbol) [0x00814BB9]
+	(No symbol) [0x007FA8D6]
+	(No symbol) [0x007CBA27]
+	(No symbol) [0x007CC43D]
+	GetHandleVerifier [0x00BCCE13+2938739]
+	GetHandleVerifier [0x00C1EC69+3274185]
+	GetHandleVerifier [0x009909C2+594722]
+	GetHandleVerifier [0x00997EDC+624700]
+	(No symbol) [0x008A37CD]
+	(No symbol) [0x008A0528]
+	(No symbol) [0x008A06C5]
+	(No symbol) [0x00892CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Erro: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x007E5523+24195]
+	(No symbol) [0x0077AA04]
+	(No symbol) [0x00671F09]
+	(No symbol) [0x0065DF77]
+	(No symbol) [0x0065C408]
+	(No symbol) [0x0065CABD]
+	(No symbol) [0x00668C8A]
+	(No symbol) [0x0067D528]
+	(No symbol) [0x006F53A5]
+	(No symbol) [0x006DA8D6]
+	(No symbol) [0x006ABA27]
+	(No symbol) [0x006AC43D]
+	GetHandleVerifier [0x00AACE13+2938739]
+	GetHandleVerifier [0x00AFEC69+3274185]
+	GetHandleVerifier [0x008709C2+594722]
+	GetHandleVerifier [0x00877EDC+624700]
+	(No symbol) [0x007837CD]
+	(No symbol) [0x00780528]
+	(No symbol) [0x007806C5]
+	(No symbol) [0x00772CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Reiniciando navegador e tentando novamente...
+Traceback (most recent call last):
+  File "c:\Users\juan\Desktop\JFbot - Prag\app.pyw", line 214, in <module>
+    time.sleep(2)
+KeyboardInterrupt
+Exception ignored in: <function Chrome.__del__ at 0x000002947EC7C0E0>
+Traceback (most recent call last):
+  File "C:\Users\juan\AppData\Local\Programs\Python\Python311\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Users\juan\AppData\Local\Programs\Python\Python311\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] Identificador inválido
+
+Criando Conta!
+
+Nome inserido: Oyhctiut
+Email inserido: roixab3xfv@gmail.com
+Senha inserida: dY2ZO5YAp86L
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Número de iframes encontrados: 3
+Timeout ao encontrar o campo de entrada: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00AB5523+24195]
+	(No symbol) [0x00A4AA04]
+	(No symbol) [0x00942093]
+	(No symbol) [0x00986ED2]
+	(No symbol) [0x0098711B]
+	(No symbol) [0x009C76F2]
+	(No symbol) [0x009AAB84]
+	(No symbol) [0x009C5280]
+	(No symbol) [0x009AA8D6]
+	(No symbol) [0x0097BA27]
+	(No symbol) [0x0097C43D]
+	GetHandleVerifier [0x00D7CE13+2938739]
+	GetHandleVerifier [0x00DCEC69+3274185]
+	GetHandleVerifier [0x00B409C2+594722]
+	GetHandleVerifier [0x00B47EDC+624700]
+	(No symbol) [0x00A537CD]
+	(No symbol) [0x00A50528]
+	(No symbol) [0x00A506C5]
+	(No symbol) [0x00A42CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+
+Criando Conta!
+
+Nome inserido: Nvhvgndp
+Email inserido: gpduvwtizi@gmail.com
+Senha inserida: 03m5PqgvVOf8
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 0
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 1
+Verificando iframe 1
+Elemento encontrado no iframe 1!
+Elemento não encontrado no iframe 1: Message: element not interactable
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B1F09]
+	(No symbol) [0x010F7EDF]
+	(No symbol) [0x010ED4FD]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x010ECFB4]
+	(No symbol) [0x0111ADD4]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 4
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 4: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Número de iframes encontrados: 3
+Verificando iframe 1
+Elemento não encontrado no iframe 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010F6ED2]
+	(No symbol) [0x010F711B]
+	(No symbol) [0x011376F2]
+	(No symbol) [0x0111AB84]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 2: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não encontrado no iframe 3: Message: no such element: element not found
+  (Session info: chrome=129.0.6668.90); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x01225523+24195]
+	(No symbol) [0x011BAA04]
+	(No symbol) [0x010B2093]
+	(No symbol) [0x010C0726]
+	(No symbol) [0x010B854A]
+	(No symbol) [0x010B6847]
+	(No symbol) [0x010B9508]
+	(No symbol) [0x010B9580]
+	(No symbol) [0x010F8BE6]
+	(No symbol) [0x01136A84]
+	(No symbol) [0x0111AB3C]
+	(No symbol) [0x01135280]
+	(No symbol) [0x0111A8D6]
+	(No symbol) [0x010EBA27]
+	(No symbol) [0x010EC43D]
+	GetHandleVerifier [0x014ECE13+2938739]
+	GetHandleVerifier [0x0153EC69+3274185]
+	GetHandleVerifier [0x012B09C2+594722]
+	GetHandleVerifier [0x012B7EDC+624700]
+	(No symbol) [0x011C37CD]
+	(No symbol) [0x011C0528]
+	(No symbol) [0x011C06C5]
+	(No symbol) [0x011B2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+
+Criando Conta!
+
+Nome inserido: Ppuphwuh
+Email inserido: cerfkvbyj5@gmail.com
+Senha inserida: RNR915aVeOUm
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro ao enviar mensagem: Message: element not interactable
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00CE5523+24195]
+	(No symbol) [0x00C7AA04]
+	(No symbol) [0x00B71F09]
+	(No symbol) [0x00BB7EDF]
+	(No symbol) [0x00BAD4FD]
+	(No symbol) [0x00BDAB3C]
+	(No symbol) [0x00BACFB4]
+	(No symbol) [0x00BDADD4]
+	(No symbol) [0x00BF5280]
+	(No symbol) [0x00BDA8D6]
+	(No symbol) [0x00BABA27]
+	(No symbol) [0x00BAC43D]
+	GetHandleVerifier [0x00FACE13+2938739]
+	GetHandleVerifier [0x00FFEC69+3274185]
+	GetHandleVerifier [0x00D709C2+594722]
+	GetHandleVerifier [0x00D77EDC+624700]
+	(No symbol) [0x00C837CD]
+	(No symbol) [0x00C80528]
+	(No symbol) [0x00C806C5]
+	(No symbol) [0x00C72CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+
+Criando Conta!
+
+Erro: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00EC5523+24195]
+	(No symbol) [0x00E5AA04]
+	(No symbol) [0x00D52093]
+	(No symbol) [0x00D2E22B]
+	(No symbol) [0x00DC173F]
+	(No symbol) [0x00DD4BB9]
+	(No symbol) [0x00DBA8D6]
+	(No symbol) [0x00D8BA27]
+	(No symbol) [0x00D8C43D]
+	GetHandleVerifier [0x0118CE13+2938739]
+	GetHandleVerifier [0x011DEC69+3274185]
+	GetHandleVerifier [0x00F509C2+594722]
+	GetHandleVerifier [0x00F57EDC+624700]
+	(No symbol) [0x00E637CD]
+	(No symbol) [0x00E60528]
+	(No symbol) [0x00E606C5]
+	(No symbol) [0x00E52CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Reiniciando navegador e tentando novamente...
+
+Criando Conta!
+
+Nome inserido: Xxijeqgj
+Email inserido: yjs62vasxd@gmail.com
+Senha inserida: 5Oykaxk1fpXM
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro ao enviar mensagem: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00385523+24195]
+	(No symbol) [0x0031AA04]
+	(No symbol) [0x00212093]
+	(No symbol) [0x001EE22B]
+	(No symbol) [0x0028173F]
+	(No symbol) [0x00294BB9]
+	(No symbol) [0x0027A8D6]
+	(No symbol) [0x0024BA27]
+	(No symbol) [0x0024C43D]
+	GetHandleVerifier [0x0064CE13+2938739]
+	GetHandleVerifier [0x0069EC69+3274185]
+	GetHandleVerifier [0x004109C2+594722]
+	GetHandleVerifier [0x00417EDC+624700]
+	(No symbol) [0x003237CD]
+	(No symbol) [0x00320528]
+	(No symbol) [0x003206C5]
+	(No symbol) [0x00312CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+
+Criando Conta!
+
+Nome inserido: Pciihmrz
+Email inserido: ohicdpj5fg@gmail.com
+Senha inserida: cp5xcZ4YBxZL
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+
+Criando Conta!
+
+Nome inserido: Xfgvcyeg
+Email inserido: udgmcvxtqa@gmail.com
+Senha inserida: ZAHfxaOdYvlR
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro ao enviar mensagem: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00335523+24195]
+	(No symbol) [0x002CAA04]
+	(No symbol) [0x001C2093]
+	(No symbol) [0x0019E22B]
+	(No symbol) [0x0023173F]
+	(No symbol) [0x00244BB9]
+	(No symbol) [0x0022A8D6]
+	(No symbol) [0x001FBA27]
+	(No symbol) [0x001FC43D]
+	GetHandleVerifier [0x005FCE13+2938739]
+	GetHandleVerifier [0x0064EC69+3274185]
+	GetHandleVerifier [0x003C09C2+594722]
+	GetHandleVerifier [0x003C7EDC+624700]
+	(No symbol) [0x002D37CD]
+	(No symbol) [0x002D0528]
+	(No symbol) [0x002D06C5]
+	(No symbol) [0x002C2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+
+Criando Conta!
+
+Nome inserido: Dtguzshs
+Email inserido: lxewx6sikf@gmail.com
+Senha inserida: K8lS2IJh6k0D
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Traceback (most recent call last):
+  File "c:\Users\juan\Desktop\JFbot - Prag\app.pyw", line 233, in <module>
+    if not start_bot(driver):
+           ^^^^^^^^^^^^^^^^^
+  File "c:\Users\juan\Desktop\JFbot - Prag\app.pyw", line 192, in start_bot
+    time.sleep(3)
+    ^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+Criando Conta!
+
+Nome inserido: Uauusiqk
+Email inserido: szxe4y081w@gmail.com
+Senha inserida: MSBRSwaSgrJ1
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+
+Criando Conta!
+
+Nome inserido: Jpulnujw
+Email inserido: n23wpknpk9@gmail.com
+Senha inserida: MnuVs2PtDOmW
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+
+Criando Conta!
+
+Nome inserido: Djjwjahs
+Email inserido: n6gwrpqhdi@gmail.com
+Senha inserida: Oz3bPR2YaaqM
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Erro ao enviar mensagem: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x00E55523+24195]
+	(No symbol) [0x00DEAA04]
+	(No symbol) [0x00CE2093]
+	(No symbol) [0x00CBE22B]
+	(No symbol) [0x00D5173F]
+	(No symbol) [0x00D64BB9]
+	(No symbol) [0x00D4A8D6]
+	(No symbol) [0x00D1BA27]
+	(No symbol) [0x00D1C43D]
+	GetHandleVerifier [0x0111CE13+2938739]
+	GetHandleVerifier [0x0116EC69+3274185]
+	GetHandleVerifier [0x00EE09C2+594722]
+	GetHandleVerifier [0x00EE7EDC+624700]
+	(No symbol) [0x00DF37CD]
+	(No symbol) [0x00DF0528]
+	(No symbol) [0x00DF06C5]
+	(No symbol) [0x00DE2CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+
+Criando Conta!
+
+Nome inserido: Lalgfmst
+Email inserido: dpuepgpnun@gmail.com
+Senha inserida: ctPTQAx75MAp
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+
+Criando Conta!
+
+Nome inserido: Scyyfqjn
+Email inserido: i6c64aqp8s@gmail.com
+Senha inserida: 2EH9qD57Gs73
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+
+Criando Conta!
+
+Nome inserido: Zpzcxnby
+Email inserido: r31wabqazq@gmail.com
+Senha inserida: r10CfIcxlWHs
+
+Criando Conta!
+
+Nome inserido: Mlfwjnpb
+Email inserido: 7vipzyea0o@gmail.com
+Senha inserida: xXSMeY52MlUT
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+
+Criando Conta!
+
+Nome inserido: Znajbwlx
+Email inserido: 75kskl5a7a@gmail.com
+Senha inserida: 1GR4fGo4W4Eb
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+
+Criando Conta!
+
+Nome inserido: Mtaaunnc
+Email inserido: bt4plh42mg@gmail.com
+Senha inserida: 0lbr2uQnM51D
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+
+Criando Conta!
+
+Nome inserido: Optpnyqj
+Email inserido: 073q6j8y24@gmail.com
+Senha inserida: QgJpjE9GNx1N
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+
+Criando Conta!
+
+Nome inserido: Ggurnqfp
+Email inserido: g4sv7xyec8@gmail.com
+Senha inserida: cCay8MzUckaS
+
+Termos aceitos!
+
+
+Registro com Sucesso!
+
+Número de iframes encontrados: 1
+Verificando iframe 1 com JavaScript...
+Elemento encontrado no iframe 1!
+Elemento não encontrado no iframe 1: Message: element not interactable
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x003C5523+24195]
+	(No symbol) [0x0035AA04]
+	(No symbol) [0x00251F09]
+	(No symbol) [0x00291C99]
+	(No symbol) [0x00290456]
+	(No symbol) [0x002BAB3C]
+	(No symbol) [0x0028CFB4]
+	(No symbol) [0x002BADD4]
+	(No symbol) [0x002D5280]
+	(No symbol) [0x002BA8D6]
+	(No symbol) [0x0028BA27]
+	(No symbol) [0x0028C43D]
+	GetHandleVerifier [0x0068CE13+2938739]
+	GetHandleVerifier [0x006DEC69+3274185]
+	GetHandleVerifier [0x004509C2+594722]
+	GetHandleVerifier [0x00457EDC+624700]
+	(No symbol) [0x003637CD]
+	(No symbol) [0x00360528]
+	(No symbol) [0x003606C5]
+	(No symbol) [0x00352CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+Elemento não foi encontrado em nenhum iframe.
+Erro ao enviar mensagem: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+	GetHandleVerifier [0x003C5523+24195]
+	(No symbol) [0x0035AA04]
+	(No symbol) [0x00252093]
+	(No symbol) [0x0022E22B]
+	(No symbol) [0x002C173F]
+	(No symbol) [0x002D4BB9]
+	(No symbol) [0x002BA8D6]
+	(No symbol) [0x0028BA27]
+	(No symbol) [0x0028C43D]
+	GetHandleVerifier [0x0068CE13+2938739]
+	GetHandleVerifier [0x006DEC69+3274185]
+	GetHandleVerifier [0x004509C2+594722]
+	GetHandleVerifier [0x00457EDC+624700]
+	(No symbol) [0x003637CD]
+	(No symbol) [0x00360528]
+	(No symbol) [0x003606C5]
+	(No symbol) [0x00352CA6]
+	BaseThreadInitThunk [0x7512FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
